@@ -9,7 +9,7 @@
                 <style type="text/css"> </style>
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
                 <link rel="stylesheet" href="css/cloud3.css">
-                <title>Longos Weblogic Automation Demo</title>
+                <title>Weblogic Automation Demo</title>
             </head>
 
             <body>
